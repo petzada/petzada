@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="300" src="https://www.letsnurture.com/wp-content/uploads/2020/07/5-skills-you-need-to-be-a-good-python-developer-blog-banner.jpg"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://discord.gg/petzada" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="25" alt="discord logo"  />
   </a>
@@ -43,9 +37,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/petzada/petzada/output/snake.svg" alt="Snake animation" />
 
 ###
