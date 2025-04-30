@@ -38,7 +38,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/petzada/petzada/output/snake.svg" alt="Snake animation" />
-
-###
