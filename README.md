@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas e aspirante a desenvolvedor Java desde 2025.<br><br>A paixão pela computação aconteceu desde novo, quando ainda tinha apenas 8 anos e não podia ter um computador, ficava olhando meu irmão colocar a senha no computador pra poder mexer enquanto ele estava na escola. Desde então, não parei mais. Dadas as devidas oportunidades na vida, ingressando através da programação para o mundo da tecnologia.</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas e aspirante a desenvolvedor Java desde 2025.<br><br>A paixão pela computação aconteceu desde novo, quando tinha ainda 8 anos de idade e não podia ter um computador, ficava olhando meu irmão colocar a senha no computador pra poder mexer enquanto ele estava na escola. Desde então, não parei mais. Dadas as devidas oportunidades na vida, ingressando através da programação para o mundo da tecnologia.</p>
 
 ###
 
